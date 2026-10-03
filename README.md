@@ -1,6 +1,6 @@
 # 🎙️ Earnings Call Readiness Coach — Barenya Pvt. Ltd.
 
-**🔗 Live app:** PASTE_YOUR_STREAMLIT_LINK_HERE
+**🔗 Live app:** [PASTE_YOUR_STREAMLIT_LINK_HERE](https://barenya-project.streamlit.app/)
 
 A prototype that helps a listed company's leadership rehearse for a tough quarterly earnings call:
 revenue grew, but margins fell, cash flow weakened and earlier management promises were missed.
