@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/fc7d1225-ecf8-46a7-82e1-4d6835bfeb21
+
 # 🎙️ Earnings Call Readiness Coach — Barenya Pvt. Ltd.
 
 **🔗 Live app:** https://barenya-project.streamlit.app/
