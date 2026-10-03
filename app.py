@@ -54,7 +54,10 @@ with st.sidebar:
     st.caption(f"{D.COMPANY['ticker']} · {D.COMPANY['quarter']} · call in {D.COMPANY['call_date']}")
     st.caption(D.COMPANY["description"])
     st.divider()
-    key = st.text_input("Gemini API key", value=get_key(), type="password")
+    key = get_key()          # read from Streamlit Secrets, never shown on screen
+    if not key:
+        key = st.text_input("Gemini API key (optional)", type="password",
+                            help="Paste your own key to enable AI scoring. Without it, rule-based scoring is used.")
     llm = Gemini(key)
     st.caption("🟢 Gemini connected" if llm.ok else "⚪ Offline mode: rule-based scoring")
     st.divider()
