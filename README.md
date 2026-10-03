@@ -3,8 +3,11 @@
 **🔗 Live app:** https://barenya-project.streamlit.app/
 
 **🎬 Pitch video:**
-https://github.com/user-attachments/assets/357ba56d-2ad9-4bfa-90a9-3b1e38d9dd28
-https://github.com/user-attachments/assets/fc7d1225-ecf8-46a7-82e1-4d6835bfeb21
+
+
+https://github.com/user-attachments/assets/ba7baad2-feef-458d-8553-8237e961fe71
+
+
 
 A prototype that helps a listed company's leadership rehearse for a tough quarterly earnings call:
 revenue grew, but margins fell, cash flow weakened and earlier management promises were missed.
