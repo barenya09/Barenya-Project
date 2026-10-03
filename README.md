@@ -1,9 +1,6 @@
 # 🎙️ Earnings Call Readiness Coach — Barenya Pvt. Ltd.
 
 **🔗 Live app:** https://barenya-project.streamlit.app/
-**🎬 Pitch video (90 sec):**
-https://github.com/user-attachments/assets/…
-
 
 A prototype that helps a listed company's le
 
