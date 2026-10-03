@@ -25,7 +25,7 @@ It judges *what* is said, not tone or delivery, and AI feedback must be reviewed
 | `engine.py` | Rule-based logic: gap scoring, answer guardrails, readiness index, recommendations |
 | `llm.py` | Gemini integration (answer scoring, question generation) |
 | `app.py` | Streamlit dashboard |
-| `Barenya's Project.ipynb` | Colab notebook used to build and test everything step by step |
+| `Barenya's_Project.ipynb` | Colab notebook used to build and test everything step by step |
 
 ## Run locally
 `pip install -r requirements.txt` then `streamlit run app.py`. Add `GEMINI_API_KEY` in the sidebar or in `.streamlit/secrets.toml`.
