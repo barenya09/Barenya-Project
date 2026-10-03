@@ -6,7 +6,7 @@ from google import genai
 from google.genai import types
 import data as D
 
-MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-flash-lite-latest"]
+MODELS = ["gemini-flash-lite-latest", "gemini-flash-latest", "gemini-2.5-flash"]
 
 
 def context():
