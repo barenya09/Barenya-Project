@@ -2,11 +2,10 @@
 
 **🔗 Live app:** https://barenya-project.streamlit.app/
 
-A prototype that helps a listed company's le
-
+**🎬 Pitch video:**
 https://github.com/user-attachments/assets/357ba56d-2ad9-4bfa-90a9-3b1e38d9dd28
 
-adership rehearse for a tough quarterly earnings call:
+A prototype that helps a listed company's leadership rehearse for a tough quarterly earnings call:
 revenue grew, but margins fell, cash flow weakened and earlier management promises were missed.
 
 ## How it works
